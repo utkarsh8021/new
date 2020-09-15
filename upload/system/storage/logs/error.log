@@ -1,0 +1,1186 @@
+2020-09-13 11:45:10 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2020-09-13 11:45:38 - PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\opencart\upload\catalog\controller\startup\startup.php on line 166
+2020-09-13 11:45:38 - PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\opencart\upload\catalog\controller\startup\startup.php on line 166
+2020-09-13 11:48:26 - PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\opencart\upload\catalog\controller\startup\startup.php on line 166
+2020-09-13 11:48:26 - PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\opencart\upload\catalog\controller\startup\startup.php on line 166
+2020-09-13 13:29:50 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2020-09-13 13:29:51 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2020-09-13 13:53:16 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2020-09-13 13:53:17 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2020-09-14 11:50:22 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart\upload\system\library\mail\mail.php on line 77
+2020-09-14 14:53:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:53:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:53:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:53:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:53:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:53:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:53:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:53:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:53:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:53:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:53:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:53:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:53:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:53:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:53:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:53:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:53:01 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:53:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:53:01 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:53:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:53:01 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:53:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:53:01 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:53:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:53:01 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:53:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:53:01 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:53:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:53:01 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:53:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:53:01 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:53:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:53:01 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:53:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:53:01 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:53:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:53:01 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:53:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:53:01 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:53:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:53:01 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:53:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:53:01 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:53:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:53:01 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:53:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:53:01 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:53:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:53:01 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:53:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:53:01 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:53:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:53:01 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:53:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:53:01 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:53:01 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:55:37 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:55:37 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:55:37 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:55:37 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:55:37 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:55:37 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:55:37 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:55:37 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:55:37 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:55:37 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:55:37 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:55:37 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:55:37 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:55:37 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:55:37 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:55:37 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:55:38 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:55:38 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:55:38 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:55:38 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:55:38 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:55:38 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:55:38 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:55:38 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:55:38 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:55:38 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:55:38 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:55:38 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:55:38 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:55:38 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:55:38 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:55:38 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:55:38 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:55:38 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:55:38 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:55:38 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:55:38 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:55:38 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:55:38 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:55:38 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:55:38 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:55:38 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:55:38 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:55:38 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:55:38 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:55:38 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:55:38 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:55:38 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:55:38 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:55:38 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:55:38 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:55:38 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:55:38 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:55:38 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:55:38 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:55:38 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:56:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:56:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:57:02 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:57:02 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:58:45 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:58:45 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 14:59:52 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 14:59:52 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:21 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:21 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:08:26 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:08:26 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:04 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:04 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:10:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:10:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:10:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:10:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:11:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:11:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:11:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:11:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:11:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:11:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:11:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:11:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:11:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:11:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:11:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:11:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:11:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:11:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:11:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:11:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:11:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:11:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:11:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:11:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:11:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:11:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:11:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:11:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:11:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:11:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:11:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:11:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:11:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:11:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:11:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:11:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:11:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:11:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:11:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:11:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:11:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:11:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:11:00 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:11:00 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:18:50 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:18:50 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:22:34 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:22:34 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:24 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:24 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:32 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:32 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:53 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:53 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:53 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:53 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:53 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:53 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:53 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:53 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:53 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:53 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:53 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:53 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:53 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:53 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:53 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:53 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:54 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:54 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:54 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:54 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:54 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:54 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:54 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:54 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:54 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:54 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:54 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:54 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:54 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:54 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:54 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:54 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:54 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:24:54 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:24:54 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:24:54 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:24:54 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:29:43 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:29:43 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:33:51 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:33:51 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:33:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:33:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:33:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:33:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:33:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:33:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:33:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:33:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:33:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:33:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:33:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:33:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:33:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:33:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:33:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:33:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:33:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:33:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:33:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:33:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:33:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:33:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:33:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:33:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:33:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:33:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:33:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:33:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:33:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:33:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:33:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:33:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:33:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:33:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 25
+2020-09-14 15:33:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:33:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 26
+2020-09-14 15:33:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:33:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 27
+2020-09-14 15:33:59 - PHP Notice:  Undefined offset: 123 in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30
+2020-09-14 15:33:59 - PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\opencart\upload\system\library\cart\currency.php on line 30

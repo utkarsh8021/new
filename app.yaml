@@ -1,0 +1,13 @@
+runtime: php73
+runtime_config:
+  document_root: opencart
+
+
+handlers:
+- url: /
+  static_files: /upload/index.php
+  upload: /upload/index.php
+
+- url: /(.*)
+  static_files: www/\1
+  upload: www/(.*)
